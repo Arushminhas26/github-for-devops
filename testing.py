@@ -1,0 +1,1 @@
+print("hellp dost kya hai sab ka")
