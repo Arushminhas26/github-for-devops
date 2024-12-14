@@ -4,3 +4,4 @@ git commit -m "adding filename files"
 git rm --chached filename
 git status
 git restore
+git push origin master
